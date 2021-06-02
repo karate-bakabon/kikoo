@@ -1,0 +1,13 @@
+
+プロジェクトの作り方
+
+django-admin startproject config .
+python manage.py runserver
+
+アプリを作る
+python manage.py startapp アプリ名
+
+python manage.py runserver
+
+(サーバを止めた状態で)python manage.py startapp app1(アプリの作成)
+
